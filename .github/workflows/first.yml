@@ -13,7 +13,7 @@ jobs:
 
       - name: Create version file
         run: |
-          echo "Version 1.0" > version.txt
+          echo "Version 1.1" > version.txt
 
       - name: Commit and push
         run: |
